@@ -1,0 +1,56 @@
+html {
+    font-size: 16px;
+}
+body {
+    background-image: url(images/bg-pattern-top-mobile.svg), url(images/bg-pattern-bottom-desktop.svg);
+    background-repeat: no-repeat, no-repeat;
+    background-position: top left, top 90px right 0px;
+
+}
+.flex-container1 {
+    width: 80%;
+    display: flex;
+    margin: 2rem auto;
+    justify-content: space-around;
+    
+}
+.intro {
+    width: 40%;
+}
+.intro h1,p {
+    color:  hsl(300, 43%, 22%);
+}
+.stars {
+    width: 40%;
+}
+
+.stars {
+
+}
+.ratings {
+    background-color: hsl(300, 24%, 96%);
+    margin-bottom: 1rem;
+    width: 80%;
+}
+.first-rating {
+    
+    
+}
+.second-rating {
+    
+    
+}
+.third-rating {
+    
+}
+.magenta {
+    color: hsl(300, 43%, 22%)
+}
+.flex-container2 {
+    width: 80%;
+    display: flex;
+    margin: 0 auto;
+}
+img {
+    margin-right: .25rem;
+}
